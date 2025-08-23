@@ -1,0 +1,10 @@
+/.eslintrc.json
+/.vscode
+/assets
+/babel.config.json
+/manifest.xml
+/node_modules
+/package-lock.json
+/package.json
+/src
+/webpack.config.js
