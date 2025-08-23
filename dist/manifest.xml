@@ -2,15 +2,15 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>b988c042-7994-48ac-9aef-d1ab98da54e8</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Contoso</ProviderName>
+  <ProviderName>Github</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="EMB Templates"/>
   <Description DefaultValue="A collection of frequently used email templates for EMB Management. These templates are easily populated with user defined data and able to be sent quickly."/>
-  <IconUrl DefaultValue="https://www.contoso.com/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://www.contoso.com/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <IconUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-128.png"/>
+  <SupportUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/readme.md"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://polluti0n.github.io/EMB-Payment-Options/dist/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://www.contoso.com/taskpane.html"/>
+        <SourceLocation DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -70,16 +70,16 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://www.contoso.com/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://www.contoso.com/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://www.contoso.com/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://www.contoso.com/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://www.contoso.com/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
+        <bt:String id="GroupLabel" DefaultValue="EMB Templates Add-in"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Open Task Pane"/>
       </bt:ShortStrings>
       <bt:LongStrings>
