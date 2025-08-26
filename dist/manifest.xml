@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="EMB Templates"/>
   <Description DefaultValue="A collection of frequently used email templates for EMB Management. These templates are easily populated with user defined data and able to be sent quickly."/>
-  <IconUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/readme.md"/>
   <AppDomains>
     <AppDomain>https://polluti0n.github.io/EMB-Payment-Options/dist/</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/taskpane.html"/>
+        <SourceLocation DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -70,13 +70,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://polluti0n.github.io/EMB-Payment-Options/dist/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="EMB Templates"/>
