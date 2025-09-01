@@ -83,7 +83,7 @@
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="EMB Templates"/>
-          <bt:String id="TaskpaneButton.Label" DefaultValue="Open Task Pane"/>
+          <bt:String id="TaskpaneButton.Label" DefaultValue="Templates"/>
         </bt:ShortStrings>
         <bt:LongStrings>
           <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens the task pane."/>
